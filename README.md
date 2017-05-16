@@ -93,6 +93,16 @@ $ cd $HOME/Autoware/ros
 $ ./run
 ```
 
+## Real-Time Support
+
+ROSCH is real-time extension modules for ROS. The supported functions include:
+
+- __Measurer__  : Measurement of execution time for ROS nodes
+- __Analyzer__  : Analysis for shceduling ROS nodes with Fixed-Priority policy.
+- __Scheduler__ : Real-time Fixed-Priority scheduling depended on Analyzer. 
+ 
+More Details [here](https://github.com/CPFL/ROSCH.git)
+
 ## For Developers
 
 Be careful for changing files under `ros/src/sensing/drivers/lidar/packages/velodyne`. There is **subtree**.

@@ -95,7 +95,7 @@ $ ./run
 
 ## Real-Time Support
 
-ROSCH is real-time extension modules for ROS. The supported functions include:
+ROSCH is real-time extension modules for ROS. Supported functions include:
 
 - __Measurer__  : Measurement of execution time for ROS nodes
 - __Analyzer__  : Analysis for shceduling ROS nodes with Fixed-Priority policy.

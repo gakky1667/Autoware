@@ -101,7 +101,7 @@ We are developed real-time extension modules suite for ROS. The Supported functi
 - __Analyzer__  : Analysis for shceduling with Fixed-Priority policy.
 - __Scheduler__ : Real-time scheduling based on Analyzer. 
  
-Please download it from the following repository [https://github.com/CPFL/ROSCH.git](https://github.com/CPFL/ROSCH.git) and build it by yourself.
+Please download it from [here](https://github.com/CPFL/ROSCH.git) and build it by yourself.
 
 ## For Developers
 
